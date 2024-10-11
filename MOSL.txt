@@ -1,0 +1,10 @@
+Megan’s Open-Source License (MOSL)
+
+-Usage Rights: You are free to use this software for any personal, educational, or commercial purposes, as long as you agree to the terms of this license.
+-Modification: You are permitted to modify the software as needed. However, if you distribute modified versions of this software, you must make your modifications available under this same license. The original authors must be credited for their work.
+-Distribution: You may distribute the software, in its original or modified form, as long as you include the following:
+   - This license text.
+   - A clear acknowledgment of the original author(s).
+   - Any modifications you make must be documented.
+-Liability: This software is provided without any warranties or guarantees. The authors are not responsible for any damages or issues that may arise from using the software.
+-Patents: No express or implied patent rights are granted under this license.
