@@ -8,3 +8,4 @@ Megan’s Open-Source License (MOSL)
    - Any modifications you make must be documented.
 -Liability: This software is provided without any warranties or guarantees. The authors are not responsible for any damages or issues that may arise from using the software.
 -Patents: No express or implied patent rights are granted under this license.
+-Pet Break Claws: User must stop and give a pet to a pet everytime a win has been won. If no pet available, find one.
